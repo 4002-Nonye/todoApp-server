@@ -1,44 +1,5 @@
 {
     "todos": [
-      {
-        "newTask": "nawa",
-        "check": false,
-        "id": 7
-      },
-      {
-        "newTask": "nawa",
-        "check": true,
-        "id": 8
-      },
-      {
-        "newTask": "iyeh",
-        "check": false,
-        "id": 9
-      },
-      {
-        "newTask": "3",
-        "check": false,
-        "id": 10
-      },
-      {
-        "newTask": "m3",
-        "check": false,
-        "id": 11
-      },
-      {
-        "newTask": "ll",
-        "check": false,
-        "id": 12
-      },
-      {
-        "newTask": "player",
-        "check": false,
-        "id": 13
-      },
-      {
-        "newTask": "mq",
-        "check": false,
-        "id": 14
-      }
+   
     ]
   }
